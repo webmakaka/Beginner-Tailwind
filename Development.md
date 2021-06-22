@@ -176,6 +176,20 @@ beginnertailwind.com
 
 ![Application](/img/pic-p01.png?raw=true)
 
+<br/>
+
+### 35 - Purging Unused Classes
+
+    $ npm run build
+
+<br/>
+
+### 36 - Customizing Colors
+
+<br/>
+
+### 37 - Deploying to Netlify
+
 <br/><br/>
 
 ---
