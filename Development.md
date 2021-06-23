@@ -190,6 +190,30 @@ beginnertailwind.com
 
 ### 37 - Deploying to Netlify
 
+<br/>
+
+### 38 - Tailwind in VS Code
+
+<br/>
+
+### 39 - Setting Up HTML
+
+<br/>
+
+### 40 - Header Layout
+
+<br/>
+
+### 41 - Header Styling
+
+<br/>
+
+### 42 - Header Responsive
+
+<br/>
+
+![Application](/img/pic-p02.png?raw=true)
+
 <br/><br/>
 
 ---
