@@ -214,6 +214,26 @@ beginnertailwind.com
 
 ![Application](/img/pic-p02.png?raw=true)
 
+<br/>
+
+### 43 - Hero Layout
+
+<br/>
+
+### 44 - Hero Styling
+
+<br/>
+
+### 45 - Hero Fun Elements
+
+<br/>
+
+### 46 - Hero Responsive
+
+<br/>
+
+![Application](/img/pic-p03.png?raw=true)
+
 <br/><br/>
 
 ---
