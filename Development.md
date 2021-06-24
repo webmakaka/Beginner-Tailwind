@@ -254,6 +254,22 @@ beginnertailwind.com
 
 ![Application](/img/pic-p04.png?raw=true)
 
+<br/>
+
+### 51 - About Layout
+
+<br/>
+
+### 52 - About Styling
+
+<br/>
+
+### 53 - About Responsive
+
+<br/>
+
+![Application](/img/pic-p05.png?raw=true)
+
 <br/><br/>
 
 ---
