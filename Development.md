@@ -234,6 +234,26 @@ beginnertailwind.com
 
 ![Application](/img/pic-p03.png?raw=true)
 
+<br/>
+
+### 47 - Overview Layout
+
+<br/>
+
+### 48 - Overview Styling
+
+<br/>
+
+### 49 - Overview Fun Elements
+
+<br/>
+
+### 50 - Overview Responsive
+
+<br/>
+
+![Application](/img/pic-p04.png?raw=true)
+
 <br/><br/>
 
 ---
