@@ -286,6 +286,14 @@ beginnertailwind.com
 
 ### 57 - What You'll Learn Responsive
 
+<br/>
+
+### 58 - Layout + Styling + Responsive
+
+<br/>
+
+![Application](/img/pic-p06.png?raw=true)
+
 <br/><br/>
 
 ---
