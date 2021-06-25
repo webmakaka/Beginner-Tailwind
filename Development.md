@@ -270,6 +270,22 @@ beginnertailwind.com
 
 ![Application](/img/pic-p05.png?raw=true)
 
+<br/>
+
+### 54 - What You'll Learn Layout
+
+<br/>
+
+### 55 - What You'll Learn Styling
+
+<br/>
+
+### 56 - What You'll Learn Fun Elements
+
+<br/>
+
+### 57 - What You'll Learn Responsive
+
 <br/><br/>
 
 ---
