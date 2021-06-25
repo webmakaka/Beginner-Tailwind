@@ -294,6 +294,26 @@ beginnertailwind.com
 
 ![Application](/img/pic-p06.png?raw=true)
 
+<br/>
+
+### 59 - Pricing Layout
+
+<br/>
+
+### 60 - Pricing Styling
+
+<br/>
+
+### 61 - Pricing Fun
+
+<br/>
+
+### 62 - Pricing Responsive
+
+<br/>
+
+![Application](/img/pic-p07.png?raw=true)
+
 <br/><br/>
 
 ---
