@@ -314,6 +314,10 @@ beginnertailwind.com
 
 ![Application](/img/pic-p07.png?raw=true)
 
+<br/>
+
+### 63 - Layout + Styling + Responsive
+
 <br/><br/>
 
 ---
