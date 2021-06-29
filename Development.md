@@ -334,6 +334,14 @@ beginnertailwind.com
 
 ### 67 - Footer Responsive
 
+<br/>
+
+### 68 - Fixing Containers
+
+<br/>
+
+### 69 - Adding Links
+
 <br/><br/>
 
 ---
