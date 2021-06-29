@@ -318,6 +318,22 @@ beginnertailwind.com
 
 ### 63 - Layout + Styling + Responsive
 
+<br/>
+
+### 64 - Footer Layout
+
+<br/>
+
+### 65 - Footer Styling
+
+<br/>
+
+### 66 - Footer Fun
+
+<br/>
+
+### 67 - Footer Responsive
+
 <br/><br/>
 
 ---
