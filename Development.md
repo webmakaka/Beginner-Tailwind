@@ -370,6 +370,14 @@ beginnertailwind.com
 
 ![Application](/img/pic-p08.png?raw=true)
 
+<br/>
+
+### 76 - Recap
+
+<br/>
+
+### 77 - Outro
+
 <br/><br/>
 
 ---
