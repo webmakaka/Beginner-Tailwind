@@ -13,6 +13,7 @@ module.exports = {
     },
   },
   variants: {
+    backgroundOpacity: ['responsive', 'even', 'hover', 'focus'],
     extend: {},
   },
   plugins: [],

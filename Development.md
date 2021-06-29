@@ -342,6 +342,34 @@ beginnertailwind.com
 
 ### 69 - Adding Links
 
+<br/>
+
+### 70 - Customizing Tailwind
+
+<br/>
+
+### 71 - Extracting Tailwind Styles
+
+<br/>
+
+### 72 - Tailwind and Vue (skipped)
+
+<br/>
+
+### 73 - Tailwind Typography (skipped)
+
+<br/>
+
+### 74 - Tailwind Tools
+
+<br/>
+
+### 75 - Videos Layout + Styling + Responsive
+
+<br/>
+
+![Application](/img/pic-p08.png?raw=true)
+
 <br/><br/>
 
 ---
