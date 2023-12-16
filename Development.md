@@ -174,6 +174,13 @@ $ npm create vite@latest . --template vanilla
 
 <br/>
 
+```
+$ npm run dev
+```
+
+
+<br/>
+
     $ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
     $ npx tailwindcss init -p
 
