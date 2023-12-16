@@ -164,8 +164,13 @@ beginnertailwind.com
 
 ### 34 - Setting Up Our Build System
 
-    $ cd app/client
-    $ npm init @vitejs/app . --template vanilla
+```
+$ cd app/client
+
+// upd
+// $ npm init @vitejs/app . --template vanilla
+$ npm create vite@latest . --template vanilla
+```
 
 <br/>
 
